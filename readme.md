@@ -2,8 +2,7 @@
 
 ## 🚀 Founder | Researcher | Systems Architect
 
-Welcome to my GitHub! I’m passionate about building the future of AI-native and decentralized systems. Currently, I’m leading [Syntherion](https://syntherion.com), where we turn business intent into production-ready software using next-generation AI agents.
-
+Welcome to my GitHub! I’m passionate about building the future of AI-native and decentralized systems. 
 ---
 
 ### 🛠️ Core Specializations
