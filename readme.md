@@ -16,7 +16,7 @@ Welcome to my GitHub! I’m passionate about building the future of AI-native an
 
 ---
 
-### 🌟 Favorite Projects & Achievements
+### 🌟 Past Projects & Achievements
 
 - **[Concia](https://concia.io):** AI-native blockchain where autonomous agents collaborate, earn, and evolve
 - **[Apsy](https://apsy.io):** AI platform that builds production-grade mobile apps from plain English
